@@ -78,6 +78,6 @@
 }
 
 .svg {
-  -webkit-filter: invert(50%); /* safari 6.0 - 9.0 */
-          filter: invert(60%);
+  -webkit-filter: invert(25%); /* safari 6.0 - 9.0 */
+          filter: invert(25%);
 }

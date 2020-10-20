@@ -59,27 +59,27 @@
           </vue-glide-slide>
           <vue-glide-slide>
             <router-link to="/about" href="#" class="bg-gray-800 h-32 flex justify-center items-center shadow-custom border border-gray-700 rounded-lg p-4 hover:bg-gray-900">
-              <img src="@/assets/electron.svg" width="40%" alt="ELECTRON">
+              <img class="svg" src="@/assets/electron.svg" width="40%" alt="ELECTRON">
             </router-link>
           </vue-glide-slide>
           <vue-glide-slide>
             <router-link to="/about" href="#" class="bg-gray-800 h-32 flex justify-center items-center shadow-custom border border-gray-700 rounded-lg p-4 hover:bg-gray-900">
-              <img src="@/assets/api.svg" width="40%" alt="API">
+              <img class="svg" src="@/assets/api.svg" width="40%" alt="API">
             </router-link>
           </vue-glide-slide>
                    <vue-glide-slide>
             <router-link to="/about" href="#" class="bg-gray-800 h-32 flex justify-center items-center shadow-custom border border-gray-700 rounded-lg p-4 hover:bg-gray-900">
-              <img src="@/assets/3d.svg" width="40%" alt="3D">
+              <img class="svg" src="@/assets/3d.svg" width="40%" alt="3D">
             </router-link>
           </vue-glide-slide>
                    <vue-glide-slide>
             <router-link to="/about" href="#" class="bg-gray-800 h-32 flex justify-center items-center shadow-custom border border-gray-700 rounded-lg p-4 hover:bg-gray-900">
-              <img src="@/assets/cpu.svg"  width="40%" alt="ELECTRONICS">
+              <img class="svg" src="@/assets/cpu.svg"  width="40%" alt="ELECTRONICS">
             </router-link>
           </vue-glide-slide>
                   <vue-glide-slide>
             <router-link to="/about" href="#" class="bg-gray-800 h-32 flex justify-center items-center shadow-custom border border-gray-700 rounded-lg p-4 hover:bg-gray-900">
-              <img src="@/assets/carts.svg"  width="40%" alt="STORE">
+              <img class="svg" src="@/assets/carts.svg"  width="40%" alt="STORE">
             </router-link>
           </vue-glide-slide>
           <template slot="control">
