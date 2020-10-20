@@ -1,5 +1,5 @@
 {
-  "name": "disneyplus-clone",
+  "name": "portfolio",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -24,5 +24,17 @@
     "eslint-plugin-vue": "^5.0.0",
     "tailwindcss": "^1.0.0-beta.4",
     "vue-template-compiler": "^2.5.21"
-  }
+  },
+  "description": "``` npm install ```",
+  "main": "babel.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionsarmor/portfolio.git"
+  },
+  "author": "james weeks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lionsarmor/portfolio/issues"
+  },
+  "homepage": "https://github.com/lionsarmor/portfolio#readme"
 }
