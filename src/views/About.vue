@@ -3,7 +3,7 @@
     <sidebar-navigation />
     <div class="w-full">
       <transition name="page" mode="out-in">
-        
+
       </transition>
     </div>
   </div>
@@ -13,7 +13,7 @@
 export default {
   data() {
     return {
-      background: require('@/assets/captain_marvel_background.jpg')
+
     }
   }
 }

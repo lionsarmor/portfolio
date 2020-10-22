@@ -63,7 +63,7 @@
 }
 
 .bm-burger-bars {
-  @apply bg-gray-600;
+  @apply bg-white;
 }
 
 .bm-burger-button {
