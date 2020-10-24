@@ -5,7 +5,7 @@
             <h1 class="text-gray-500 mb-1">VUE PROJECTS</h1>
             <vue-glide :perView="2" :gap="20" :peek="{ before: 0, after: 70 }" :breakpoints="{
             1024: {
-              perView: 2
+              perView: 3
             },
             800: {
               perView: 2,
@@ -29,7 +29,7 @@
                             </p>
                         </div>
                         <div class="px-6 pt-4 pb-2">
-                            <a href="https://github.com/lionsarmor/rockrepairanddesign"><span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Github</span></a>
+                            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Github</span>
                         </div>
                     </div>
                 </vue-glide-slide>
@@ -43,7 +43,7 @@
                             </p>
                         </div>
                         <div class="px-6 pt-4 pb-2">
-                            <a href="https://github.com/lionsarmor/Stonks-Frontend"><span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Github</span></a>
+                            <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">Github</span>
                         </div>
                     </div>
                 </vue-glide-slide>

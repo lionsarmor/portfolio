@@ -4,6 +4,9 @@
 
 @tailwind utilities;
 
+@import url('https://fonts.googleapis.com/css2?family=Staatliches&display=swap');
+
+
 .bm-item-list > * > span {
   @apply text-gray-500 uppercase font-normal text-base tracking-wide ml-8 mb-6;
 }
@@ -80,4 +83,12 @@
 .svg {
   -webkit-filter: invert(25%); /* safari 6.0 - 9.0 */
           filter: invert(25%);
+}
+
+.title {
+  color:white;
+  flex-wrap: nowrap;
+  margin-top: 3.1vh;
+  padding-left: 0.5vh;
+  font-family: 'Staatliches', cursive;
 }

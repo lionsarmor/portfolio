@@ -13,14 +13,19 @@ export default new Router({
       component: () => import(/* webpackChunkName: "Home" */ './views/Home.vue') 
     },
     {
-      path: "/About",
-      name: "About",
-      component: () => import(/* webpackChunkName: "Home" */ './views/About.vue') 
+      path: "/Electron-page",
+      name: "Electron-page",
+      component: () => import(/* webpackChunkName: "Home" */ './views/Electron-page.vue') 
     },
     {
       path: "/Vue-page",
       name: "Vue-page",
       component: () => import(/* webpackChunkName: "Home" */ './views/Vue-page.vue') 
+    },
+    {
+      path: "/Svelte-page",
+      name: "Svelte-page",
+      component: () => import(/* webpackChunkName: "Home" */ './views/Svelte-page.vue') 
     },
     {
       path: "/Three-dee",
