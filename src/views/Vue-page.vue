@@ -21,7 +21,7 @@
 
                 <vue-glide-slide>
                     <div class="max-w-sm rounded overflow-hidden shadow-lg">
-                        <a href="https://www.rockrepairanddesign.com/"><img class="w-full" src="@/assets/1.png" alt="Rock Repair and Design"></a>
+                        <a href="https://rockrepair-57d0f.web.app/"><img class="w-full" src="@/assets/1.png" alt="Rock Repair and Design"></a>
                         <div class="px-6 py-4">
                             <div class="font-bold text-xl mb-2">Rock Repair And Design</div>
                             <p class="text-gray-700 text-base">

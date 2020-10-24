@@ -114,7 +114,7 @@
             }
           }">
                 <vue-glide-slide>
-                    <a type="link" href="https://www.rockrepairanddesign.com/"><img src="@/assets/1.png" alt="Rock Repair and Design"></a>
+                    <a type="link" href="https://rockrepair-57d0f.web.app/"><img src="@/assets/1.png" alt="Rock Repair and Design"></a>
                 </vue-glide-slide>
                 <vue-glide-slide>
                     <a type="link" href="https://www.stonkselite.com/"><img src="@/assets/2.png" alt="Rock Repair and Design"></a>
