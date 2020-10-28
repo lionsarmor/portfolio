@@ -117,6 +117,9 @@
                     <a type="link" href="https://rockrepairanddesign.com"><img src="@/assets/1.png" alt="Rock Repair and Design"></a>
                 </vue-glide-slide>
                 <vue-glide-slide>
+                    <a type="link" href="https://github.com/lionsarmor/coinoir"><img src="@/assets/coinoir.png" alt="Rock Repair and Design"></a>
+                </vue-glide-slide>
+                <vue-glide-slide>
                     <a type="link" href="https://www.stonkselite.com/"><img src="@/assets/2.png" alt="Rock Repair and Design"></a>
                 </vue-glide-slide>
                 <template slot="control">
